@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Integrations | Wallpaper Roll Calculator</title>
+  <meta name="description" content="Export formats, embed notes, and roadmap integration patterns.">
+  <link rel="canonical" href="https://wallpaper.homedecostore.net/integrations/">
+  <meta name="google-adsense-account" content="ca-pub-0268893833921284">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0268893833921284" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body style="--bg:#eef4f5;--panel:#fbfdf9;--ink:#1d2830;--accent:#2d6f86;--accent-2:#bd6b3c;--line:#c5d4d8">
+  <header class="topbar">
+    <a class="brand" href="../"><span class="brand-mark">WA</span><span>homedecostore.net</span></a>
+    <nav class="nav" aria-label="Primary">
+      <a href="../tool/">Tool</a>
+      <a href="../templates/">Templates</a>
+      <a href="../workspace/">Workspace</a>
+      <a href="../plans/">Plans</a>
+    </nav>
+  </header>
+  <main>
+    <section class="app-grid"><nav class="side-nav" aria-label="App sections"><a href="../" >Dashboard</a><a href="../tool/" >Tool</a><a href="../workspace/" >Workspace</a><a href="../templates/" >Templates</a><a href="../reports/" >Reports</a><a href="../library/" >Library</a><a href="../examples/" >Examples</a><a href="../checklists/" >Checklists</a><a href="../integrations/" aria-current="page">Integrations</a><a href="../settings/" >Settings</a><a href="../plans/" >Plans</a><a href="../faq/" >FAQ</a></nav><div class="workspace-main"><div class="page-title-panel"><p class="eyebrow">Home Estimator</p><h1>Integrations</h1><p class="lede">Export formats, embed notes, and roadmap integration patterns.</p></div><div class="ad-unit" aria-label="Advertisement"><span>Advertisement</span></div><div class="two-col">
+    <article class="workspace-card"><h3>Export formats</h3><p>Copy text, JSON download, saved browser project records, and report view.</p></article>
+    <article class="workspace-card"><h3>Embed roadmap</h3><pre class="code-block">fetch("https://wallpaper.homedecostore.net/tool/").then(() => console.log("Wallpaper Roll Calculator ready"));</pre></article>
+    <article class="workspace-card"><h3>No backend secrets</h3><p>This static pilot does not expose API keys, passwords, cookies, or private credentials.</p></article>
+    <article class="workspace-card"><h3>Future SaaS hooks</h3><p>Webhook delivery, account login, team history, and CSV export can be added after traffic validation.</p></article>
+  </div></div></section>
+    
+  </main>
+  <footer class="footer"><span>Wallpaper Roll Calculator for homedecostore.net</span><a href="../privacy/">Privacy</a></footer>
+  <script>window.SITE_CONFIG = {"title":"Wallpaper Roll Calculator","kind":"calculator","fields":[{"id":"wallArea","label":"Wall area sq ft","type":"number","default":420,"min":0,"step":"1","hint":""},{"id":"rollCoverage","label":"Roll coverage","type":"number","default":56,"min":0,"step":"1","hint":""},{"id":"repeatWaste","label":"Repeat waste %","type":"number","default":15,"min":0,"step":"1","hint":""},{"id":"rollCost","label":"Roll cost","type":"number","default":42,"min":0,"step":"1","hint":""}],"data":{},"engine":{"outputs":[{"label":"Adjusted area","expr":"wallArea * (1 + repeatWaste / 100)","unit":"sq ft"},{"label":"Rolls","expr":"Math.ceil(wallArea * (1 + repeatWaste / 100) / rollCoverage)","format":"integer"},{"label":"Budget","expr":"Math.ceil(wallArea * (1 + repeatWaste / 100) / rollCoverage) * rollCost","format":"money"}],"rules":[],"defaultAdvice":"The result is ready for a planning pass. Review unit assumptions before using it in a live job."},"examples":[{"title":"First working pass","body":"Wallpaper Roll Calculator turns a loose input into a copy-ready output that can be reviewed, saved, or exported."},{"title":"Repeat workflow","body":"The browser workspace keeps saved projects local so repeat visitors can use the same tool without a backend login."},{"title":"Professional review","body":"Use the result as a structured starter, then confirm local rules, project standards, prices, and assumptions before final use."}],"faq":[{"q":"Is Wallpaper Roll Calculator free to use?","a":"Yes. This pilot is a free browser-side SaaS utility with copy, save, and JSON export actions."},{"q":"Does it replace a licensed professional?","a":"No. It creates a useful first pass and checking structure; final decisions still need qualified review."},{"q":"Where are saved projects stored?","a":"Saved projects are kept in this browser's localStorage for the static pilot build."}],"limits":["Do not treat generated outputs as legal, code, engineering, tax, or safety certification.","No private credentials are required by this static site.","Ad placements stay outside primary action controls."]};</script>
+  
+  <script src="../saas.js"></script>
+</body>
+</html>
