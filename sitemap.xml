@@ -1,16 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://wallpaper.homedecostore.net/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
   <url><loc>https://wallpaper.homedecostore.net/tool/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://wallpaper.homedecostore.net/workspace/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://wallpaper.homedecostore.net/templates/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://wallpaper.homedecostore.net/reports/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://wallpaper.homedecostore.net/library/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://wallpaper.homedecostore.net/examples/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/templates/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/compare/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://wallpaper.homedecostore.net/checklists/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://wallpaper.homedecostore.net/integrations/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://wallpaper.homedecostore.net/settings/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://wallpaper.homedecostore.net/plans/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://wallpaper.homedecostore.net/faq/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://wallpaper.homedecostore.net/privacy/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/about/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/estimate-quantities-1/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/compare-finish-options-2/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/plan-a-room-budget-3/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/prepare-a-checklist-4/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/document-assumptions-5/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/export-material-notes-6/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/estimate-quantities-7/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/compare-finish-options-8/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/plan-a-room-budget-9/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/prepare-a-checklist-10/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/document-assumptions-11/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/export-material-notes-12/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/estimate-quantities-13/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/compare-finish-options-14/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/plan-a-room-budget-15/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/prepare-a-checklist-16/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/document-assumptions-17/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/export-material-notes-18/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/estimate-quantities-19/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/compare-finish-options-20/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/plan-a-room-budget-21/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/prepare-a-checklist-22/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/document-assumptions-23/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/export-material-notes-24/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/estimate-quantities-25/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/compare-finish-options-26/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/plan-a-room-budget-27/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/prepare-a-checklist-28/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/document-assumptions-29/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/export-material-notes-30/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/estimate-quantities-31/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/compare-finish-options-32/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/plan-a-room-budget-33/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/prepare-a-checklist-34/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/document-assumptions-35/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/guides/export-material-notes-36/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/tile-1/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/flooring-2/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/wallpaper-3/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/paint-4/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/fixture-5/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/waste-factor-6/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/finish-7/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/room-schedule-8/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/tile-9/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/flooring-10/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/wallpaper-11/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/paint-12/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/fixture-13/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/waste-factor-14/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/finish-15/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/room-schedule-16/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/tile-17/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/flooring-18/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/wallpaper-19/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/paint-20/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/fixture-21/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/waste-factor-22/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/finish-23/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/room-schedule-24/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/tile-25/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/flooring-26/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/wallpaper-27/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/library/paint-28/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/templates/quantity-calculator-1/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/templates/finish-library-2/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/templates/room-checklist-3/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/templates/cost-schedule-4/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/templates/material-swatches-5/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/templates/export-summary-6/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/templates/quantity-calculator-7/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/templates/finish-library-8/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/templates/room-checklist-9/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/templates/cost-schedule-10/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/templates/material-swatches-11/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/templates/export-summary-12/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/templates/quantity-calculator-13/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/templates/finish-library-14/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/templates/room-checklist-15/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/templates/cost-schedule-16/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/templates/material-swatches-17/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/templates/export-summary-18/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/compare/quantity-calculator-vs-room-checklist/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/compare/finish-library-vs-cost-schedule/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/compare/room-checklist-vs-material-swatches/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/compare/cost-schedule-vs-export-summary/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/compare/material-swatches-vs-quantity-calculator/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/compare/export-summary-vs-finish-library/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/compare/quantity-calculator-vs-room-checklist/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/compare/finish-library-vs-cost-schedule/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/compare/room-checklist-vs-material-swatches/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/compare/cost-schedule-vs-export-summary/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/compare/material-swatches-vs-quantity-calculator/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/compare/export-summary-vs-finish-library/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/checklists/waste-factor-too-low-1/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/checklists/unconfirmed-substrate-2/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/checklists/fixture-mismatch-3/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/checklists/missing-room-dimensions-4/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/checklists/unclear-finish-code-5/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/checklists/late-delivery-allowance-6/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/checklists/waste-factor-too-low-7/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/checklists/unconfirmed-substrate-8/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/checklists/fixture-mismatch-9/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/checklists/missing-room-dimensions-10/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/checklists/unclear-finish-code-11/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wallpaper.homedecostore.net/checklists/late-delivery-allowance-12/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 </urlset>
